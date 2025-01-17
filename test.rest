@@ -1,0 +1,11 @@
+POST http://13.233.165.171:5000/api/news
+
+{
+  "category_id": 2,
+  "news_title": "Tech Conference 2030",
+  "news_short_title": "Tech Conf 2027",
+  "date": "2025-02-15",
+  "image": "tech_conf_2025.jpg",
+  
+  "news_content": "The annual tech conference will take place in Silicon Valley, featuring keynotes from industry leaders."
+}
